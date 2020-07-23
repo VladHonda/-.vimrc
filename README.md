@@ -1,2 +1,3 @@
 # -.vimrc
-My vimrc file
+My ~/.vimrc and 
+  ~/.bash_aliases files
